@@ -5,11 +5,13 @@ package com.kevinsguides.introtojava.chapter02;
  * This Class file is related to the second chapter of the Intro to Java series at
  * https://kevinsguides.com/guides/code/java/javaintro/02helloworld
  * License: Public Domain
- * @author: Kevin's Guides - Kevin Olson
+ * @author Kevin's Guides - Kevin Olson
+ * @version 1.00
+ * @since 10/16/2021
  */
 public class HelloWorld {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         //print out using println method
         System.out.println("Hello, World.");
